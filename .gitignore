@@ -1,0 +1,5 @@
+*.bkp
+.DS__Store
+*.swp
+*.swo
+*.tmp
